@@ -9,6 +9,6 @@ PhysicMaterial:
   m_Name: PM_BallMaterial
   dynamicFriction: 0.1
   staticFriction: 0.17
-  bounciness: 0.9
+  bounciness: 0.18
   frictionCombine: 0
   bounceCombine: 3
